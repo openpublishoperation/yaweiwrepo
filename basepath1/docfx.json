@@ -32,6 +32,6 @@
     "template": [
       "op.html"
     ],
-    "dest": "_site"
+    "dest": "basepath1"
   }
 }
