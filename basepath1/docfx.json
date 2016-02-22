@@ -6,8 +6,7 @@
           "**/*.md"
         ],
         "exclude": [
-          "**/obj/**",
-          "basepath1/**"
+          "**/obj/**"
         ],
         "src": null,
         "dest": null
@@ -20,8 +19,7 @@
           "**/*.jpg"
         ],
         "exclude": [
-          "**/obj/**",
-          "basepath1/**"
+          "**/obj/**"
         ],
         "src": null,
         "dest": null
@@ -34,6 +32,6 @@
     "template": [
       "op.html"
     ],
-    "dest": "basepath1"
+    "dest": "_site"
   }
 }
